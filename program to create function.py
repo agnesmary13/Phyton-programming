@@ -35,7 +35,7 @@ def printChar(arr, Len):
         size -= 1
  
 # Driver code
-Str = "geeksforgeeks"
+Str = "Welcome to python programming"
 Len = len(Str)
  
  
